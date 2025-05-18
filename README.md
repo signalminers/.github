@@ -1,2 +1,2 @@
-# .github
-The public announcements will be release here
+# SignalMiners by MULTIG SAS
+Welcome on SignalMiners Organization
